@@ -92,6 +92,8 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
+    /*background-image: url("./doe.jpg");
+    background-repeat: no-repeat;*/
 }
 
 header .container {
