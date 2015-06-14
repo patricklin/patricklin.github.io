@@ -91,9 +91,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #064470;
-    /*background-image: url("./doe.jpg");
-    background-repeat: no-repeat;*/
+    background-image: url("../img/doe1.jpg");
 }
 
 header .container {
