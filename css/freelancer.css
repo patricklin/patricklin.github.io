@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #808E99;
+    color: #064470;
 }
 
 .divider {
@@ -72,7 +72,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #808E99;
+    background-color: #064470;
 }
 
 hr.star-primary {
@@ -91,7 +91,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #808E99;
+    background: #064470;
     /*background-image: url("./doe.jpg");
     background-repeat: no-repeat;*/
 }
@@ -258,7 +258,7 @@ section.success {
 
 /*
 #portfolio {
-    background-color: #808E99;
+    background-color: #064470;
 }*/
 
 @media(min-width:767px) {
@@ -281,7 +281,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #808E99;
+    color: #064470;
     background: #fff;
 }
 
@@ -334,7 +334,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #808E99;
+    color: #064470;
 }
 
 form .row:first-child .floating-label-form-group {
