@@ -29,7 +29,7 @@ a.active {
   height: 1px;
   width:100%;
   display:block; /* for use on default inline elements like span */
-  margin: 9px 0;
+  margin: 9px 0px 20px;
   overflow: hidden;
   background-color: #e5e5e5;
 }
