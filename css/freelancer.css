@@ -87,7 +87,9 @@ hr.star-primary:after {
 .img-centered {
     margin: 0 auto;
 }
-
+.img-modal {
+    height: 250px;
+}
 header {
     text-align: center;
     color: #fff;
